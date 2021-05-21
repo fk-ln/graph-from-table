@@ -17,9 +17,9 @@ python numelody.py sample
 リポジトリにあるsample.csvは東京都の新規感染者数の推移です。お試しにどうぞ。
 
 ## 必要要件
--python 3.6.10  
--pretty_midi 0.2.8  
--pands 1.0.5  
+- python 3.6.10  
+- pretty_midi 0.2.8  
+- pandas 1.0.5  
 
 ## その他
 Windowsだとダブルクリックで普通にMIDIファイルが再生可能なはず。Macだと大変？

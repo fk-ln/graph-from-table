@@ -1,4 +1,4 @@
-#Numelody
+##Numelody
 CSVから取得したデータをいい感じで補正した後音階に当てはめてMIDIファイルに出力する。
 Numerical  Melody的な感じで適当に付けてたけどそれっぽいのでそのまま採用
 

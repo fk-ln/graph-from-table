@@ -8,10 +8,10 @@ numelody.pyをダウンロードして任意のフォルダに置く。
 行名も列名も要らないです。
 以下の通り実行するとmelody.midが作られます。
 ```python
-python numelody.py (CSVファイル名)
+python numelody.py {CSVファイル名}
 ```
 ### 例
-```
+```python
 python numelody.py sample
 ```
 リポジトリにあるsample.csvは東京都の新規感染者数の推移です。お試しにどうぞ。
